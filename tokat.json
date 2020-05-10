@@ -1,4 +1,4 @@
-{ "tokat" : [
+[
     { 
         "isim" :"Ali Paşa Camii",
          "aciklama":"Ali Paşa Camii, Tokat şehir meydanın da bulunan ve aynı ildeki en uzun geçmişi olan Camii olarak bilinir. II. Selim zamanında 1572 yılında yaptırılan camiinin önünde asırlık bir ağaç bulunmaktadır.",
@@ -51,4 +51,4 @@
          "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c10.jpg",
 		 "tarih":"2020"
     }
-]}
+]
