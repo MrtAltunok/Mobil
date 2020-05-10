@@ -1,54 +1,62 @@
 [
-    { 
-        "isim" :"Ali Paşa Camii",
-         "aciklama":"Ali Paşa Camii, Tokat şehir meydanın da bulunan ve aynı ildeki en uzun geçmişi olan Camii olarak bilinir. II. Selim zamanında 1572 yılında yaptırılan camiinin önünde asırlık bir ağaç bulunmaktadır.",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c1.jpg",
-		 "tarih":"1571"
-    },
-     { 
-        "isim" :"Mahperi Hatun Medresesi",
-         "aciklama":"Sultan I. Alaeddin Keykubat'ın eşi Mahperi Hatun tarafından inşa ettirilmiş olan kervansaray, Pazar ilçesinde bulunmaktadır. ",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c2.jpg",
-		 "tarih":"1238"
-    }, { 
-        "isim" :"Saat Kulesi",
-         "aciklama":"Tokat Saat Kulesi, Tokat ilinin merkez ilçesinde bulunan saat kulesi. II. Abdülhamid'in tahta çıkışının 25. yılı şerefine 1902'de yaptırılan kule 33 metre yüksekliğindedir. ",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c3.jpg",
-		 "tarih":"1902"
-    }, { 
-        "isim" :"Rüstem Çelebi Camii",
-         "aciklama":"Rüstem Çelebi Mahallesi'nde yer alan ve Güdük Minare Cami adıyla da tanınan caminin banisini ve kesin inşa tarihini veren bir kitabesi bulunmamaktadır. Plan özellikleri ve taşın tuğla ile çerçevelenerek oluşturulan erken dönem cephe süslemeleri içermesi nedeniyle 15.yy.a tarihlenmektedir. ",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c4.jpg",
-		 "tarih":"15. Yüzyıl"
-    }, { 
-        "isim" :"Zinav Gölü",
-         "aciklama":"Zinav Gölü, Tokat ili Reşadiye ilçesi sınırlarında yer alan heyelan seti gölüdür. Gölün en derin yeri 15 m, uzunluğu 1 km, genişliği 70–500 m, alanı 26 hektardır. Göl Reşadiye ilçesine uzaklığı 17,4 km, Yolüstü köyüne 4 km uzaklıktadır.",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c5.jpg",
-		 "tarih":"2020"
-    }, { 
-        "isim" :"Tokat Kirazı",
-         "aciklama":"Tokat'ta 6 bin dekar alanda yıllık ortalama 7-8 bin ton yetiştirilen Napolyon cinsi, yurtdışında da "Türk kirazı" olarak bilinen kirazın yüzde 60'ı, Almanya, İngiltere, Fransa ve Rusya başta olmak üzere çok sayıda Avrupa ülkesine ihraç ediliyor.",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c6.jpg",
-		 "tarih":"2020"
-    }, { 
-        "isim" : "Tokat Kebabı",
-         "aciklama":"Tokat kebabı; taze kuzu eti, kuyruk yağı, patlıcan, domates, yeşil biber, patates, soğan, sarımsak ve özel pişirilmiş kebap pidesi kullanılarak yapılan Tokat yöresine ait bir yemektir. Özel kebap ocaklarında yapılır.",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c7.jpg",
-		 "tarih":"2020"
-    }, { 
-        "isim" :"Yazmacılar Hanı",
-         "aciklama":"Dağ manzarasına sahip olan konforlu konaklama birimlerinizde gerekli olan birçok eşya yer almaktadır.",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c8.jpg",
-		 "tarih":"15. Yüzyıl"
-    }, { 
-        "isim" :"Ulu Camii",
-         "aciklama":"İlk olarak Danişmendliler Döneminde XIII. yüzyılda yapılmış, 1679 yılında Avcı Mehmed zamanında tamamen yenilenmiştir. ",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c9.jpg",
-		 "tarih":"1679"
-    }, { 
-        "isim" :"Kaz Gölü",
-         "aciklama":"Kaz Gölü Yaban Hayatı Geliştirme Sahası'nın toplam koruma alanı 1170 hektar olup göl alanı; 73 hektar kuru, 201 hektar sulu olmak üzere 274 hektardır. İl merkezine uzaklığı 39 kilometre, Turhal İlçesi'ne 19 kilometre, Pazar İlçesi'ne 11 kilometre, Zile İlçesi'ne 23 kilometredir.",
-         "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c10.jpg",
-		 "tarih":"2020"
-    }
+   {
+      "isim":"Ali Paşa Camii",
+      "aciklama":"Ali Paşa Camii, II. Selim zamanında 1572 yılında yaptırılan camiinin önünde asırlık bir ağaç bulunmaktadır.",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c1.jpg",
+      "tarih":"1571"
+   },
+   {
+      "isim":"Mahperi Hatun Medresesi",
+      "aciklama":"Sultan I. Alaeddin Keykubat'ın eşi Mahperi Hatun tarafından inşa ettirilmiş olan kervansaray, Pazar ilçesinde bulunmaktadır. ",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c2.jpg",
+      "tarih":"1238"
+   },
+   {
+      "isim":"Saat Kulesi",
+      "aciklama":"Tokat Saat Kulesi, Tokat ilinin merkez ilçesinde bulunan saat kulesi. II. Abdülhamid'in tahta çıkışının 25. yılı şerefine 1902'de yaptırılan kule 33 metre yüksekliğindedir. ",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c3.jpg",
+      "tarih":"1902"
+   },
+   {
+      "isim":"Rüstem Çelebi Camii",
+      "aciklama":"Rüstem Çelebi Mahallesi'nde yer alan ve Güdük Minare Cami adıyla da tanınan caminin banisini ve kesin inşa tarihini veren bir kitabesi bulunmamaktadır. Plan özellikleri ve taşın tuğla ile çerçevelenerek oluşturulan erken dönem cephe süslemeleri içermesi nedeniyle 15.yy.a tarihlenmektedir. ",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c4.jpg",
+      "tarih":"15. Yüzyıl"
+   },
+   {
+      "isim":"Zinav Gölü",
+      "aciklama":"Zinav Gölü, Tokat ili Reşadiye ilçesi sınırlarında yer alan heyelan seti gölüdür. Gölün en derin yeri 15 m, uzunluğu 1 km, genişliği 70–500 m, alanı 26 hektardır. Göl Reşadiye ilçesine uzaklığı 17,4 km, Yolüstü köyüne 4 km uzaklıktadır.",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c5.jpg",
+      "tarih":"2020"
+   },
+   {
+      "isim":"Tokat Kirazı",
+      "aciklama":"Tokat'ta 6 bin dekar alanda yıllık ortalama 7-8 bin ton yetiştirilen Napolyon cinsi, yurtdışında da Türk kirazı olarak bilinen kirazın yüzde 60'ı, Almanya, İngiltere, Fransa ve Rusya başta olmak üzere çok sayıda Avrupa ülkesine ihraç ediliyor.",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c6.jpg",
+      "tarih":"2020"
+   },
+   {
+      "isim":"Tokat Kebabı",
+      "aciklama":"Tokat kebabı; taze kuzu eti, kuyruk yağı, patlıcan, domates, yeşil biber, patates, soğan, sarımsak ve özel pişirilmiş kebap pidesi kullanılarak yapılan Tokat yöresine ait bir yemektir. Özel kebap ocaklarında yapılır.",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c7.jpg",
+      "tarih":"2020"
+   },
+   {
+      "isim":"Yazmacılar Hanı",
+      "aciklama":"Dağ manzarasına sahip olan konforlu konaklama birimlerinizde gerekli olan birçok eşya yer almaktadır.",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c8.jpg",
+      "tarih":"15. Yüzyıl"
+   },
+   {
+      "isim":"Ulu Camii",
+      "aciklama":"İlk olarak Danişmendliler Döneminde XIII. yüzyılda yapılmış, 1679 yılında Avcı Mehmed zamanında tamamen yenilenmiştir. ",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c9.jpg",
+      "tarih":"1679"
+   },
+   {
+      "isim":"Kaz Gölü",
+      "aciklama":"Kaz Gölü Yaban Hayatı Geliştirme Sahası'nın toplam koruma alanı 1170 hektar olup göl alanı; 73 hektar kuru, 201 hektar sulu olmak üzere 274 hektardır. İl merkezine uzaklığı 39 kilometre, Turhal İlçesi'ne 19 kilometre, Pazar İlçesi'ne 11 kilometre, Zile İlçesi'ne 23 kilometredir.",
+      "fotourl":"https://raw.githubusercontent.com/MrtAltunok/Mobil/master/c10.jpg",
+      "tarih":"2020"
+   }
 ]
